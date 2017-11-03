@@ -1,5 +1,5 @@
 # AmortizationTable
-<h2> Screeshoot </h2>=
+<h2> Screenshoot </h2>=
 <img src="Amort1.png" width="500px">
 <p> Amortization table takes 3 inputs: Principal amount owed, Interest Rate, and Years </p>
 <br/>
